@@ -1,0 +1,6 @@
+key,value,description
+win_21,1.5,21で勝ったボーナス
+win_normal,1.0,通常勝利
+loss_burst,-1.0,バースト負け
+loss_17_plus,-0.25,17以上で負け(許容)
+loss_under_17,-1.0,17未満で負け(罰則)

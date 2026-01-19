@@ -1,0 +1,6 @@
+key,value,description
+win_21,2.0,21で勝った(最高)
+win_normal,1.0,通常勝利
+loss_burst,-0.5,バースト負け(ナイス・トライ)
+loss_17_plus,-1.0,17以上で負け
+loss_under_17,-1.5,17未満で負け(臆病者への罰)
